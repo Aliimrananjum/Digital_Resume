@@ -101,12 +101,6 @@ input{
     flex-wrap: wrap;
 }
 
-#socials--list form{
-    font-weight: 300;
-    color: black;
-    font-size: 0.9em;
-    transition: 0.3s;
-}
 
 #socials--list a{
     font-weight: 300;
