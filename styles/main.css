@@ -53,6 +53,10 @@ button{
     color: #000;
 }
 
+input{
+    color: black;
+}
+
 #container--main{
     max-width: 700px;
     margin: 0 auto;
@@ -97,6 +101,13 @@ button{
     flex-wrap: wrap;
 }
 
+#socials--list form{
+    font-weight: 300;
+    color: black;
+    font-size: 0.9em;
+    transition: 0.3s;
+}
+
 #socials--list a{
     font-weight: 300;
     color: var(--secondaryTextColor);
@@ -104,12 +115,6 @@ button{
     transition: 0.3s;
 }
 
-#socials--list form{
-    font-weight: 300;
-    color: black;
-    font-size: 0.9em;
-    transition: 0.3s;
-}
 
 #socials--list a:hover{
     font-weight: 100;
